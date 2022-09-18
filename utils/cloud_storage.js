@@ -7,11 +7,11 @@ const uuid = uuidv4();
 
 
 const storage = new Storage({
-    projectId: "delivery-app-udemy-9d9e3",
+    projectId: "app-girls-beauty-salon",
     keyFilename: './serviceAccountKey.json'
 });
 
-const bucket = storage.bucket("gs://delivery-app-udemy-9d9e3.appspot.com/");
+const bucket = storage.bucket("gs://app-girls-beauty-salon.appspot.com/");
 
 /**
  * Subir el archivo a Firebase Storage
