@@ -1,6 +1,6 @@
-# backend_app_delivery_udemy
+# Backend para aplicacion de salon
 
-Backend utilizado en la aplicación de delivery UDEMY.
+Backend utilizado en la aplicación de manejo del salon.
 
 Codigo del backend de la aplicacion.
 
@@ -15,4 +15,10 @@ Para su correcto funcionamiento es necesario instalar lo siguiente:
 
 Si deseea probar las peticions http del servidor le recomiendo utilizar Postman en su version 8.4.0.
 
-Este es el enlace de la aplicacion que utiliza este backend: https://github.com/Louys-GA/backend_app_delivery_udemy.git
+Este es el enlace de la aplicacion que utiliza este backend: https://github.com/louysdev/app-girls-beauty-salon
+
+## Hecha con: 
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
